@@ -36,7 +36,7 @@
     "deparam": "^1.0.5",
     "handlebars": "^4.7.7",
     "immutable": "^3.8.1",
-    "jquery": "^3.5.0",
+    "jquery": "^3.7.1",
     "lodash": "^4.17.21",
     "pubsub-js": "^1.5.7",
     "rbgkew-typeahead": "^1.1.1",
