@@ -2369,6 +2369,11 @@ inherits@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.1.tgz#b17d08d326b4423e568eff719f91b0b1cbdf69f1"
 
+inherits@2.0.4, inherits@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
+  integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
+
 internal-ip@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-1.2.0.tgz#ae9fbf93b984878785d50a8de1b356956058cf5c"
@@ -2911,9 +2916,12 @@ lodash.keys@^3.0.0:
 lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
-  lodash.restparam@^3.0.0:
+  integrity sha512-t7j+NzmgnQzTAYXcsHYLgimltOV1MXHtlOWf6GjL9Kj8GK5FInw5JotxvbOs+IvV1/Dzo04/fCGfLVs7aXb4Ag==
+
+lodash.restparam@^3.0.0:
   version "3.6.1"
   resolved "https://registry.yarnpkg.com/lodash.restparam/-/lodash.restparam-3.6.1.tgz#936a4e309ef330a7645ed4145986c85ae5b20805"
+  integrity sha512-L4/arjjuq4noiUJpt3yS6KIKDtJwNe2fIYgMqyYYKoeIfV1iEqvPwhCx23o+R9dzouGihDAPN1dTIRWa7zk8tw==
 
 lodash.tail@^4.1.1:
   version "4.1.1"
@@ -4070,9 +4078,10 @@ public-encrypt@^4.0.0:
     parse-asn1 "^5.0.0"
     randombytes "^2.0.1"
 
-pubsub-js@^1.5.7:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/pubsub-js/-/pubsub-js-1.6.0.tgz#232d36485ce7905a54629ec5783d9f6f4c638026"
+pubsub-js@^1.9.4:
+  version "1.9.4"
+  resolved "https://registry.yarnpkg.com/pubsub-js/-/pubsub-js-1.9.4.tgz#5c8678600e34e95b1269e96c17e1b51dab3ecb5a"
+  integrity sha512-hJYpaDvPH4w8ZX/0Fdf9ma1AwRgU353GfbaVfPjfJQf1KxZ2iHaHl3fAUw1qlJIR5dr4F3RzjGaWohYUEyoh7A==
 
 pump@^2.0.0, pump@^2.0.1:
   version "2.0.1"

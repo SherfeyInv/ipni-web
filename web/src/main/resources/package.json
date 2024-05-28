@@ -38,7 +38,7 @@
     "immutable": "^3.8.1",
     "jquery": "^3.5.0",
     "lodash": "^4.17.21",
-    "pubsub-js": "^1.5.7",
+    "pubsub-js": "^1.9.4",
     "rbgkew-typeahead": "^1.1.1",
     "simple-pagination.js": "^1.6.0"
   }
