@@ -32,10 +32,10 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "bootstrap-float-label": "^3.0.1",
+    "bootstrap-float-label": "^4.0.2",
     "deparam": "^1.0.5",
     "handlebars": "^4.7.8",
-    "immutable": "^3.8.1",
+    "immutable": "^4.3.7",
     "jquery": "^3.7.1",
     "lodash": "^4.17.21",
     "pubsub-js": "^1.9.4",
