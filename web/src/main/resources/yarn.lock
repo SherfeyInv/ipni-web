@@ -428,11 +428,10 @@ boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
 
-bootstrap-float-label@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/bootstrap-float-label/-/bootstrap-float-label-3.0.1.tgz#aba006715ef9b3b69c9d87081ef76848d3bcb9c4"
-  dependencies:
-    float-label-css "1.0.2"
+bootstrap-float-label@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/bootstrap-float-label/-/bootstrap-float-label-4.0.2.tgz#bbd8d112f1aff33213b7703014fe89bdeb2a8aeb"
+  integrity sha512-NnYjtc3EK3aldRXF6NDVd0NSP/X4utCEz5CxDggU5sDzeM8zWOqAiF/1lyPKGN4zZQJLNJRZCtLT2Y+N18Rtiw==
 
 bootstrap-sass@^3.4.1:
   version "3.4.1"
@@ -1766,10 +1765,6 @@ flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
 
-float-label-css@1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/float-label-css/-/float-label-css-1.0.2.tgz#245716e506a9c7755e004117380f1dab5bf1d11e"
-
 flush-write-stream@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flush-write-stream/-/flush-write-stream-1.0.3.tgz#c5d586ef38af6097650b49bc41b55fabb19f35bd"
@@ -2322,9 +2317,10 @@ ignore@^3.3.5:
   version "3.3.10"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.3.10.tgz#0a97fb876986e8081c631160f8f9f389157f0043"
 
-immutable@^3.8.1:
-  version "3.8.2"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
+immutable@^4.3.7:
+  version "4.3.7"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.3.7.tgz#c70145fc90d89fb02021e65c84eb0226e4e5a381"
+  integrity sha512-1hqclzwYwjRDFLjcFxOM5AYkkG0rpFPpr1RLPMEuGczoS7YA8gLhy8SWXYRAA/XwfEHpfo3cw5JGioS32fnMRw==
 
 import-local@^1.0.0:
   version "1.0.0"
