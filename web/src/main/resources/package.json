@@ -37,7 +37,7 @@
     "handlebars": "^4.7.8",
     "immutable": "^3.8.1",
     "jquery": "^3.7.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "pubsub-js": "^1.9.4",
     "rbgkew-typeahead": "^1.1.1",
     "simple-pagination.js": "^1.6.0"
